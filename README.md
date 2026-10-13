@@ -20,3 +20,11 @@ It includes hands-on projects focused on data analysis, business intelligence, d
 - 📋 Business Analysis
 - 📊 Data Visualization
 - 💡 Business Insights & Recommendations
+---
+
+## 📂 Projects
+
+### 1. Excel Business Analytics Project
+An Excel-based business analytics project demonstrating data analysis and business reporting skills.
+
+**Tools:** Microsoft Excel
