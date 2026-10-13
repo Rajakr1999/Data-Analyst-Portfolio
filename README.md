@@ -31,6 +31,13 @@ An Excel-based business analytics project demonstrating data analysis and busine
 
 ---
 
+### 2. App Insights – Power BI
+A Power BI project focused on analyzing app-related data and presenting insights through an interactive dashboard.
+
+**Tools:** Power BI
+
+---
+
 ## 🎯 Career Objective
 
 Results-driven Data Analyst with 6 months of hands-on experience at Piramal Finance in data analysis, Power BI reporting, dashboard development, and business intelligence. Skilled in SQL, Excel, and data visualization, with a strong ability to generate actionable insights and support data-driven business decisions.
