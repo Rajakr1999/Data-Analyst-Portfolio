@@ -39,5 +39,5 @@ Results-driven Data Analyst with 6 months of hands-on experience at Piramal Fina
 
 ## 📫 Contact
 
-I am open to Data/Business Analyst opportunities
+I am open to Data/Business Analyst opportunities,
 Thank you!
