@@ -38,7 +38,7 @@ A Power BI project focused on analyzing app-related data and presenting insights
 
 ---
 
-### 4. SQL HackerRank Project
+### 3. SQL HackerRank Project
 A SQL-based project demonstrating data querying and analysis techniques.
 
 **Tools:** SQL
