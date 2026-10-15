@@ -38,6 +38,13 @@ A Power BI project focused on analyzing app-related data and presenting insights
 
 ---
 
+### 4. SQL HackerRank Project
+A SQL-based project demonstrating data querying and analysis techniques.
+
+**Tools:** SQL
+
+---
+
 ## 🎯 Career Objective
 
 Results-driven Data Analyst with 6 months of hands-on experience at Piramal Finance in data analysis, Power BI reporting, dashboard development, and business intelligence. Skilled in SQL, Excel, and data visualization, with a strong ability to generate actionable insights and support data-driven business decisions.
